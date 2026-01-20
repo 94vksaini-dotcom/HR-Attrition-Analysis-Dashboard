@@ -35,7 +35,7 @@ The dashboard provides insights into employee attrition trends and helps HR team
 - Attrition by Marital Status
 
 ## Dashboard Preview
-- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Attrition Dashboard</a>
+- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Dashboard</a>
 
 ## 📌 Use Case
 Useful for:
