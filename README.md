@@ -38,7 +38,7 @@ The dashboard provides insights into employee attrition trends and helps HR team
 - Attrition by Age Group & Gender
 - Attrition by Marital Status
 
-##<a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Dashboard View</a>
+<a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Dashboard View</a>
 
 Useful for:
 - HR Analysts
