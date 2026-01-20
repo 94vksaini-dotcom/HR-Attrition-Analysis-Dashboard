@@ -1,10 +1,48 @@
-# HR-Attrition-Analysis-Dashboard
-HR Attrition Dashboard built using HR data to analyze employee attrition trends by gender, department, job role, age group, education, and travel frequency with interactive filters and KPIs.
+# HR Attrition Dashboard (Excel)
 
-## Attrition Dashboard
-- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Attrition Dashboard</a>
+## Project Overview
+This project is an HR Attrition Dashboard developed using Microsoft Excel.
+The dashboard provides insights into employee attrition trends and helps HR teams understand workforce behavior.
 
+## Objectives
+- Track total employees and attrition count
+- Calculate attrition rate and active employees
+- Identify departments and job roles with high attrition
+- Analyze attrition by age, gender, education, and marital status
 
-#Dashboard Image
-![Attrition_Dashboard](https://github.com/user-attachments/assets/107cdbcc-5130-4a0c-922c-4fbda0188941)
+## Tools Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers & Filters
+- Excel Formulas
 
+## Key Metrics
+- Total Employees
+- Total Attrition
+- Attrition Rate (%)
+- Active Employees
+- Average Employee Age
+
+## Analysis Included
+- Attrition by Department
+- Attrition by Job Role
+- Attrition by Gender
+- Attrition by Education
+- Attrition by Performance Rating
+- Attrition by Business Travel
+- Attrition by Work Distance
+- Attrition by Age Group & Gender
+- Attrition by Marital Status
+
+## Dashboard Preview
+![HR Attrition Dashboard](Excel_Dashboard/Attrition_Dashboard.gif)
+
+## 📌 Use Case
+Useful for:
+- HR Analysts
+- HR Managers
+- Workforce Planning
+- Attrition & Retention Analysis
+
+## Contact
+**Vinod Kumar**   
