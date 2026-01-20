@@ -35,7 +35,7 @@ The dashboard provides insights into employee attrition trends and helps HR team
 - Attrition by Marital Status
 
 ## Dashboard Preview
-![HR Attrition Dashboard](Excel_Dashboard/Attrition_Dashboard.gif)
+- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Attrition Dashboard</a>
 
 ## 📌 Use Case
 Useful for:
@@ -43,6 +43,3 @@ Useful for:
 - HR Managers
 - Workforce Planning
 - Attrition & Retention Analysis
-
-## Contact
-**Vinod Kumar**   
