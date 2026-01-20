@@ -10,6 +10,10 @@ The dashboard provides insights into employee attrition trends and helps HR team
 - Identify departments and job roles with high attrition
 - Analyze attrition by age, gender, education, and marital status
 
+## Dashboard 
+![Attrition_Dashboard](https://github.com/user-attachments/assets/b07ada6c-f28a-4cca-b72d-c57c525cf448)
+
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
@@ -34,10 +38,8 @@ The dashboard provides insights into employee attrition trends and helps HR team
 - Attrition by Age Group & Gender
 - Attrition by Marital Status
 
-## Dashboard Preview
-- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Dashboard</a>
+- <a href="https://github.com/94vksaini-dotcom/HR-Attrition-Analysis-Dashboard/commit/62830720c4c414bd332ef04d6e5381b9b18be3c8">Dashboard View</a>
 
-## 📌 Use Case
 Useful for:
 - HR Analysts
 - HR Managers
